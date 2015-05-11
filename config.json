@@ -1,0 +1,7 @@
+{
+    "name": "Hadoop",
+    "introduction": "主要记录了Hadoop各个组件的基本原理，处理过程和关键的知识点等，包括HDFS、YARN、MapReduce等。",
+    "title": "Hadoop- 极客学院 Wiki",
+    "keywords": "Hadoop,网络爬虫,hadoop安装,hadoop指南,hadoop安装配置",
+    "description": "主要记录了Hadoop各个组件的基本原理，处理过程和关键的知识点等，包括HDFS、YARN、MapReduce等。"
+}
