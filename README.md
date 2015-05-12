@@ -2,6 +2,12 @@
 
 主要记录了Hadoop各个组件的基本原理，处理过程和关键的知识点等，包括HDFS、YARN、MapReduce等。
 
+本教程内容来源于 [PennyWong](http://pennywong.gitbooks.io/hadoop-notebook/content/index.html)
+
+|更新日期    |更新内容
+|----------|------------------
+|2015-5-7|Hadoop文档
+
 ## 铺垫
 
 - 人产生数据的速度越来越快，机器则更加快，more data usually beats better algorithms，所以需要另外的一种处理数据的方法。
